@@ -8,7 +8,7 @@
 import streamlit as st
 st.title("Pizza and Beer Calculator for Fleet 18")
 st.write("Fleet 18 is a group of windsurfers to race on Foster City Lagoon on Tuesday Nights.  After racing, we go to Waterfront Pizza for pizza and beer.  Everyone has pizza but not everyone has beer.  This app helps determine how much people owe.")
-st.wtite("By tradition this group does not tip.")
+st.write("By tradition this group does not tip.")
 #Collect the data
 st.subheader("Pizza")
 pizza_pre_tax=st.number_input('What was the amount of the pizza wihout tax?')
