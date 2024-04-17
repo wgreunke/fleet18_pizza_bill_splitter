@@ -8,7 +8,7 @@
 import streamlit as st
 st.title("Pizza and Beer Calculator for Fleet 18")
 st.write("Fleet 18 is a group of windsurfers who race on Foster City Lagoon on Tuesday Nights.  After racing, we go to Waterfront Pizza for pizza and beer.  Everyone has pizza but not everyone has beer.  This app helps determine how much people owe.")
-st.write("Waterfront Pizza[link](https://waterfrontpizza.com/)")
+st.write("[Waterfront Pizza](https://waterfrontpizza.com/)")
 #st.write("By tradition this group does not tip.")
 #Collect the data
 st.subheader("Pizza")
